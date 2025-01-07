@@ -1,1 +1,0 @@
-prefix all images here with 'setup-' to avoid naming clashes
